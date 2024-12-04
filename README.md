@@ -4,6 +4,7 @@
 
 **Book Outline:** 
 ---
+
 **Chapter 1: Introduction to Data Structures in Python**
 
 

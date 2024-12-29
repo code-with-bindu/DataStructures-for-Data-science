@@ -8,6 +8,7 @@
 **Chapter 1: Introduction to Data Structures in Python**
 
 
+
 - **Overview:** Define data structures and explain their importance in data science.
 - **Python Basics:** Quick recap of Python fundamentals necessary for understanding data structures (variables, loops, conditionals, functions).
 - **Types of Data Structures:** Introduction to built-in and user-defined data structures.
